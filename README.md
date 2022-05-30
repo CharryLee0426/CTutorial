@@ -1,0 +1,5 @@
+# C Larning Tutorial
+
+## 0. Introduction
+This is a repository to store some notes and experience programs when I learn the C programming language. My guidebook is *the C Programming Language, 2nd edition* by Brian W. Keminghan and Dennis M. Ritchie. The book is so classical and famous that many developers call it 'the C Bible'. I learnt it(the Chinese version) about 2 years ago, when I was freshman. However, it's neccessary for me to learn it again when I decide to apply the master degree of US/UK universities. On the one hand, I should read more materials written in English so that I can improve my English level and technical writing skills. On the other hand, I must review some knowledge about C because C is fundemental programming language and C is required for networking research. I hope that I can review the entire book carefully.
+The structure of this book is a "main-parts" structure, which means that Chapter 1 is a brief tutorial of C programming language and other chapters introduces parts of concept of C deeply. And this tutorial will follow the stucture.
